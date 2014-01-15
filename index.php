@@ -12,10 +12,10 @@
 		
 		<div class="right">
 			<p>
-				<p style="height:40px;"> </p>
+				<p style="height:40px;" id="spaceball"> </p>
 				<p>Please feel free to reach me if you have any questions:<br /><br />
 				<img src="image/icon-phone.png" style="height:14px; vertical-align: center; padding-right: 8px;"><b>Phone</b>: (812) 333-1988<br />
-				<img src="image/icon-email.png" style="height:14px; vertical-align: center; padding-right: 8px;"><b>Email</b>: contact@mengaicounseling.com
+				<img src="image/icon-email.png" style="height:14px; vertical-align: center; padding-right: 8px;"><b>Email</b>: mengai@comcast.net
 				</p><br />
 				<a href="services.php" class="btn btn-primary">Services</a>
 				<a href="payments.php" class="btn btn-primary">Fee & Payment</a>
@@ -27,7 +27,3 @@
 </div><!-- /container -->
 	
 <?php include 'footer.php'; ?>
-
-</body>
-
-</html>

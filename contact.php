@@ -15,7 +15,7 @@
 					</tr>
 					<tr>
 						<td><b>Email:</b></td>
-						<td style="vertical-align:top; padding-left: 15px;">contact@mengaicounseling.com</td>
+						<td style="vertical-align:top; padding-left: 15px;">mengai@comcast.net</td>
 					</tr>
 					<tr>
 						<td style="vertical-align:top;"><b>Address:</b></td>

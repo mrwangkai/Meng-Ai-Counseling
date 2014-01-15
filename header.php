@@ -20,7 +20,13 @@
 
 	<div class="header">
 	<! -- horizontal menu -->
-		<h2 class="logo">Meng Ai Counseling</h2>
+		
+		<h2 class="logo">Meng Ai Counseling<div style="font-size:14px; margin-top: 10px;">MSW, LCSW, LCAC, Ph.D</div></h2>
+		
+		<a href="#"><span id="menu-icon480" style="float: right; margin-right: 30px; margin-top: 30px;"><img src="http://f.cl.ly/items/1U2c3b1215383h3a2T2r/icon-menu.svg" style="position: relative; margin-right:8px; font-family: actor, sans-serif; font-size: 16pt;" width="16px" />Menu</span></a>
+		
+		<a href="#"><img id="menu-icon480-image" src="http://f.cl.ly/items/1U2c3b1215383h3a2T2r/icon-menu.svg" style="position: relative; margin-left: 40px; margin-top: 28px; font-family: actor, sans-serif; font-size: 16pt;" width="25px" /></a>
+		
 		<ul id="navigationlist">
 			<li><a href="index.php">Home</a></li>
 			<li><a href="experiences.php">About</a></li>			
@@ -28,7 +34,7 @@
 			<li><a href="payments.php">Payments</a></li>
 			<li><a href="contact.php">Contact</a></li>	
 		</ul>
-	
-		<span id="navigationlist2"><a href="#">Menu</a></span>
-	
+		
+
+		
 	</div>

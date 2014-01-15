@@ -7,12 +7,13 @@
 		<div class="left">
 			<h3>Specialities</h3>
 			<p>Substance Abuse<br />
-			Addiction, Anxiety<br />
+			Addiction, <br />
+			Anxiety<br />
 			Depression<br />
 			Relationship issues</p>
 			
 			<h3>Available Services</h3>
-			<p>I integrate clinical skills and techniques from Cognitive-Behavioral, Solution Focused, and Motivational Enhancement Therapy.</p>
+			<p>I integrate clinical skills and techniques from Cognitive-Behavioral, Solution Focused, and Motivational Enhancement Therapy depending on individuals need.</p>
 			<p>I provide group, individual, couple/family therapy.</p>
 		</div>
 		
