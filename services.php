@@ -7,7 +7,7 @@
 		<div class="left">
 			<h3>Specialities</h3>
 			<p>Substance Abuse<br />
-			Addiction, <br />
+			Addiction<br />
 			Anxiety<br />
 			Depression<br />
 			Relationship issues</p>
